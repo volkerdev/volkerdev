@@ -5,4 +5,4 @@
 
 <h3>Tecnologías:</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=F06529) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=3C99DC) ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=F06529) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=3C99DC) ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-black?style=for-the-badge&logo=bootstrap&logoColor=3C99DC{)
