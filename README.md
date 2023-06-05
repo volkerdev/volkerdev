@@ -2,9 +2,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=volkerdev&theme=prussian&hide_border=true&locale=es" alt="volkerdev"/></p>
 
-<div>
-    <h3>Tecnologías:</h3>
-        <ul>
-            <li>![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F)</li>
-        </ul>
-</div>
+
+<h3>Tecnologías:</h3>
+
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
