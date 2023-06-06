@@ -1,6 +1,8 @@
 <h1 align="center">Hola, mi nombre es Victor German Viera👋</h1>
 
-<br>
+<p>h</p>
+
+---
 
 - <h3>💻 Proyectos</h3>
 
