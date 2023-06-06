@@ -17,6 +17,8 @@
 
 <h3 align="center">Proyectos</h3>
 
-<p align="center"> 
+<p align="center">
 
-* [Weath-App](https://github.com/volkerdev/1.Weath-App) (En desarrollo...)</p>
+[Weath-App](https://github.com/volkerdev/1.Weath-App)
+
+</p>
