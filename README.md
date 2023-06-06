@@ -1,4 +1,4 @@
-<h1 align="center">Hola, mi nombre es Victor German Viera 👋</h1>
+<h1 align="center">Hola 👋, mi nombre es Victor German Viera</h1>
 
 <h3 align="center">Frontend Developer & UX/UI Designer</h3>
 
