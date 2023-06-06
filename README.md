@@ -5,7 +5,9 @@
 
 <h3>Tecnologías:</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=F06529) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=3C99DC) ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-black?style=for-the-badge&logo=bootstrap&logoColor=3C99DC{) ![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc) ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=F8A5C2) ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=F06529) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=3C99DC) ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-black?style=for-the-badge&logo=bootstrap&logoColor=3C99DC)
+
+![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc) ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=F8A5C2) ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white) ![REDUX](https://img.shields.io/badge/REDUX-black?style=for-the-badge&logo=REDUX&logoColor=764ABC)
 
 <h3>Herramientas:</h3>
 
