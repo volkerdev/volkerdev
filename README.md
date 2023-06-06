@@ -4,9 +4,9 @@
 
 ---
 
-- <h3>💻 Proyectos</h3>
+<h3>💻 Proyectos</h3>
 
-    * [Weath-App](https://github.com/volkerdev/1.Weath-App)
+* [Weath-App](https://github.com/volkerdev/1.Weath-App)
 
 <br>
 
