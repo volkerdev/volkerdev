@@ -1,6 +1,6 @@
 <h1 align="center">Hola, mi nombre es Victor German Viera 👋</h1>
 
-<h2 align="center">Frontend Developer & UX/UI Designer</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=06243F&background=F2F2F2F2&center=true&vCenter=true&repeat=false&width=435&lines=Frontend+Developer+%26+UX%2FUI+Designer)
 
 <h5>Soy una persona autodidacta y curiosa por entender cómo funcionan las cosas que me rodean. Detallista en cada proceso de creación y desarrollo, permitiéndome así expresar mis ideas creativas mediante diseños atractivos y funcionales.</h5>
 
