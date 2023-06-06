@@ -2,6 +2,12 @@
 
 <br>
 
+- <h3>💻 Proyectos</h3>
+
+    * [Weath-App](https://github.com/volkerdev/1.Weath-App)
+
+<br>
+
 <h3>👨🏻‍💻 Tecnologías</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=F06529) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=3C99DC) ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F) ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
@@ -16,10 +22,6 @@
 
 <br>
 
+---
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=volkerdev&theme=prussian&hide_border=true&locale=es" alt="volkerdev"/></p>
-
-<br>
-
-- <h3>💻 Proyectos</h3>
-
-    * [Weath-App](https://github.com/volkerdev/1.Weath-App)
