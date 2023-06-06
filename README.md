@@ -1,6 +1,6 @@
-<h1 align="center">Hola, mi nombre es Victor German Viera👋</h1>
+<h1 align="center">Hola, mi nombre es Victor German Viera 👋</h1>
 
-<p>h</p>
+<p></p>
 
 ---
 
