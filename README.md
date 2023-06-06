@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=22&pause=1000&color=0D4F8A&background=F2F2F2F2&center=true&vCenter=true&repeat=false&width=435&lines=Frontend+Developer+%26+UX%2FUI+Designer)](https://git.io/typing-svg)
 
-<h5>Soy una persona autodidacta y curiosa por entender cómo funcionan las cosas que me rodean. Detallista en cada proceso de creación y desarrollo, permitiéndome así expresar mis ideas creativas mediante diseños atractivos y funcionales.</h5>
+<p>Soy una persona autodidacta y curiosa por entender cómo funcionan las cosas que me rodean. Detallista en cada proceso de creación y desarrollo, permitiéndome así expresar mis ideas creativas mediante diseños atractivos y funcionales.</p>
 
 ---
 
