@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, mi nombre es Victor German Viera</h1>
+<h1 align="center">Hola, mi nombre es Victor German Viera 👋</h1>
 
-<h3 align="center">Frontend Developer & UX/UI Designer</h3>
+<h2 align="center">Frontend Developer & UX/UI Designer</h2>
 
-<h4>Soy una persona autodidacta y curiosa por entender cómo funcionan las cosas que me rodean. Detallista en cada proceso de creación y desarrollo, permitiéndome así expresar mis ideas creativas mediante diseños atractivos y funcionales.</h4>
+<h5>Soy una persona autodidacta y curiosa por entender cómo funcionan las cosas que me rodean. Detallista en cada proceso de creación y desarrollo, permitiéndome así expresar mis ideas creativas mediante diseños atractivos y funcionales.</h5>
 
 ---
 
