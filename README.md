@@ -8,7 +8,7 @@
 
 <h3>💻 Proyectos</h3>
 
-* [Weath-App](https://github.com/volkerdev/1.Weath-App)
+* [Weather App](https://github.com/volkerdev/1.Weather-App)
 
 <br>
 
