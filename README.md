@@ -6,7 +6,7 @@
 
 ---
 
-<h3>💻 Proyectos</h3>
+<h3>💻 Mini-Proyectos</h3>
 
 * [Weather App](https://github.com/volkerdev/1.Weather-App)
 
