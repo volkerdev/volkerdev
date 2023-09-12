@@ -21,4 +21,4 @@
 ---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=volkerdev&theme=prussian&hide_border=true&locale=es" alt="volkerdev"/></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=volkerdev&theme=prussian&locale=es)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=volkerdev&theme=prussian&locale=es)](https://git.io/streak-stats)
