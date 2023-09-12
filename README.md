@@ -21,4 +21,3 @@
 ---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=volkerdev&theme=prussian&hide_border=true&locale=es" alt="volkerdev"/></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
