@@ -6,10 +6,6 @@
 
 ---
 
-<h3>💻 Mini-Proyectos</h3>
-
-* [Weather App](https://github.com/volkerdev/1.Weather-App)
-
 <br>
 
 <h3>👨🏻‍💻 Tecnologías</h3>
