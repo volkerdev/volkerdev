@@ -20,4 +20,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=volkerdev&theme=prussian&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=volkerdev&theme=nordfox&locale=es)](https://git.io/streak-stats)
