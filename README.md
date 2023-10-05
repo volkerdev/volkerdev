@@ -1,4 +1,4 @@
-<h1 align="center">Hola, mi nombre es Victor German Viera 👋</h1>
+<h1 align="center">Hola, mi nombre es Victor Viera 👋</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=18&pause=1000&color=0D4F8A&background=F2F2F2F2&center=true&vCenter=true&repeat=false&width=340&height=35&lines=Frontend+Developer+%26+UX%2FUI+Designer" alt="volkerdev" /></p>
 
