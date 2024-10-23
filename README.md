@@ -12,7 +12,7 @@
 
 <h4>🌱 Estudiando actualmente...</h4>
 
-![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc) ![REDUX](https://img.shields.io/badge/REDUX-black?style=for-the-badge&logo=REDUX&logoColor=764ABC) ![Tailwind CSS Badge](https://img.shields.io/badge/TAILWIND-black?style=for-the-badge&logo=Tailwindcss&logoColor=06B6D4) ![ASTRO](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=ASTRO&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc) ![Tailwind CSS Badge](https://img.shields.io/badge/TAILWIND-black?style=for-the-badge&logo=Tailwindcss&logoColor=06B6D4) ![ASTRO](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=ASTRO&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white)
 
 <h3>🛠️ Herramientas</h3>
 
