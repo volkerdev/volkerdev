@@ -12,7 +12,7 @@
 
 <h4>🌱 Estudiando actualmente...</h4>
 
-![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc) ![TYPESCRIPT]([https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=TYPESCRIPT&logoColor=2F78C7)) ![Tailwind CSS Badge](https://img.shields.io/badge/TAILWIND-black?style=for-the-badge&logo=Tailwindcss&logoColor=06B6D4) ![ASTRO](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=ASTRO&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc) ![TYPESCRIPT]([https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=0052cc](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=TYPESCRIPT&logoColor=2F78C7) ![Tailwind CSS Badge](https://img.shields.io/badge/TAILWIND-black?style=for-the-badge&logo=Tailwindcss&logoColor=06B6D4) ![ASTRO](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=ASTRO&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white)
 
 <h3>🛠️ Herramientas</h3>
 
